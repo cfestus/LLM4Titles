@@ -15,3 +15,8 @@ Our primary scope is to investigate the titles and abstracts of academic papers 
 ## This Profile
 
 In this profile, we present the datasets and code used for generating the scores that we analyzed in our paper titled "Impact of Large Language Models on Scholarly Publication Titles and Abstracts: A Comparative Analysis".
+
+## Citation
+
+If you use any part of these datasets or code in your work, please cite our paper:
+- To be Updated.
