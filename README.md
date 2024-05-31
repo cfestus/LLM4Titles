@@ -1,6 +1,6 @@
 ## Overview
 
-Our aim is to determine if AI-generated manuscript titles closely match the abstract (i.e., the content) of the overall information that is meant to be conveyed on a research paper compared to that of human-generated titles. We argue that Large Language Models (LLMs) have transformed research focus, dissemination, and readability patterns across all research areas. For our experiments, we focus on these five selected knowledge areas:
+Our aim is to determine if AI-generated titles closely match the abstract (i.e., the content) of the overall information that is meant to be conveyed on a research paper compared to that of human-generated titles. We argue that Large Language Models (LLMs) have transformed research focus, dissemination, and readability patterns across all research areas. For our experiments, we focus on these five selected knowledge areas:
 
 - Business Administration and Management (BAM)
 - Computer Science and Information Technology (CS)
