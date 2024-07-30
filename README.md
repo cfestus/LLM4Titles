@@ -19,4 +19,4 @@ In this profile, we present the datasets and code used for generating the scores
 ## Citation
 
 If you use any part of these datasets or code in your work, please cite our paper:
-- To be Updated.
+P. L. Teh and C. F. Uwasomba, "Impact of Large Language Models on Scholarly Publication Titles and Abstracts: A Comparative Analysis," in Journal of Social Computing, vol. 5, no. 2, pp. 105-121, June 2024, doi: 10.23919/JSC.2024.0011. 
